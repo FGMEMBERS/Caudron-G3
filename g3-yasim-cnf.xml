@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList include="g3-base.xml">
+
+  <sim>
+
+    <description>Caudron G.III  (YASim)</description>
+    <flight-model>yasim</flight-model>
+    <aero>g3-yasim</aero>
+
+  </sim>
+  
+</PropertyList>
